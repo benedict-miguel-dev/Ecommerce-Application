@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-application",
+  "version": "1.0.0",
+  "description": "This application was developed from the Youtube Video https://www.youtube.com/watch?v=y66RgYMAgSo&list=LL&index=1&ab_channel=LamaDev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benedict-miguel-dev/Ecommerce-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benedict-miguel-dev/Ecommerce-Application/issues"
+  },
+  "homepage": "https://github.com/benedict-miguel-dev/Ecommerce-Application#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19"
+  }
+}
