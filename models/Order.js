@@ -2,7 +2,7 @@ const mongoose = require("mongoose")
 
 const OrderSchema = new mongoose.Schema(
     {
-        useriId: {
+        userId: {
             type: String,
             required: true,
         },
